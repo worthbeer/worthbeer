@@ -1,4 +1,4 @@
-William Bierwerth — Senior Frontend Engineer
+#William Bierwerth — Senior Frontend Engineer
 17 years building production React applications. Based in Queens, NY.
 I specialize in data-intensive dashboards, design systems, and the architecture layer between UI and complex backend data — the work that requires both visual precision and systems thinking.
 ***What I've shipped
