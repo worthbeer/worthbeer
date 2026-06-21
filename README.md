@@ -66,3 +66,5 @@ Open to senior frontend and UI/UX engineering roles — contract or FTE.
 Data visualization, design systems, and AI-integrated interfaces are where I do my best work.
 
 [ai-bookreader](https://github.com/worthbeer/ai-bookreader) · [ai-resume-analyzer](https://github.com/worthbeer/ai-resume-analyzer) · [pr-reviewer](https://github.com/worthbeer/pr-reviewer) · [pr-review-ops-dashboard](https://github.com/worthbeer/pr-review-ops-dashboard)
+
+
