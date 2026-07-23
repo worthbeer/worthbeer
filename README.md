@@ -15,6 +15,10 @@ Real-time price transparency monitoring across 9,000+ hospitals. Sole frontend e
 **Canvas Component Library** · Cigna/Evernorth  
 Design system built to serve two frameworks simultaneously. Contributed across a team of four engineers during a ~6-month build phase.
 
+**Next.js Performance Ladder** · Portfolio  
+Next.js 16 · App Router · TypeScript  
+Hands-on comparison rig for four production performance techniques — image delivery, SSG/SSR/ISR rendering strategy, code-splitting with real bundle-analyzer output, and Core Web Vitals — each rung runnable and measurable, not just described.
+
 **PR Reviewer** · Portfolio  
 Next.js 15 · TypeScript · Anthropic SDK · GitHub REST API  
 Agentic code review tool — paste a diff or browse GitHub repos directly, get streaming AI feedback on code quality, security, and style. Model switching (Haiku/Sonnet), configurable review scope, token-efficient by design (diff-only, prompt caching).
@@ -43,7 +47,7 @@ Most-committed personal project (21 commits). Full-stack, production-deployed.
 
 ## How I work
 
-I read generated code line by line before committing it. When I use AI assistance, I extract the smallest useful piece and apply it manually — a habit that comes from 17 years of being accountable for what ships. The Comcast interviewer called it out as the right approach. I agree.
+I read generated code line by line before committing it. When I use AI assistance, I extract the smallest useful piece and apply it manually — a habit that comes from 17 years of being accountable for what ships.
 
 I've been the sole frontend engineer on production systems that couldn't afford ambiguity. That means I know how to make architecture decisions, escalate the right problems, and deliver without a net.
 
@@ -65,6 +69,6 @@ Cigna/Evernorth · three engagement phases across ~2 years
 Open to senior frontend and UI/UX engineering roles — contract or FTE.  
 Data visualization, design systems, and AI-integrated interfaces are where I do my best work.
 
-[ai-bookreader](https://github.com/worthbeer/ai-bookreader) · [ai-resume-analyzer](https://github.com/worthbeer/ai-resume-analyzer) · [pr-reviewer](https://github.com/worthbeer/pr-reviewer) · [pr-review-ops-dashboard](https://github.com/worthbeer/pr-review-ops-dashboard)
+[pr-review-ops-dashboard](https://github.com/worthbeer/pr-review-ops-dashboard) · [nextjs-perf-ladder](https://github.com/worthbeer/nextjs-perf-ladder) · [frontend-code-review](https://github.com/worthbeer/frontend-code-review) · [ai-bookreader](https://github.com/worthbeer/ai-bookreader) · [project-scaffold](https://github.com/worthbeer/project-scaffold) · [chatbot-system-design](https://github.com/worthbeer/chatbot-system-design)
 
 
